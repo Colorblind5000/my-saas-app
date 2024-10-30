@@ -48,7 +48,7 @@ const Sidebar: React.FC = () => {
                 key={index}
                 onClick={() => setActiveItem(item.text)}
                 sx={{
-                  '&:hover': { backgroundColor: '#e3f2fd' },
+                  '&:hover': { backgroundColor: '#671213' },
                   backgroundColor: activeItem === item.text ? '#e3f2fd' : 'inherit',
                 }}
               >
