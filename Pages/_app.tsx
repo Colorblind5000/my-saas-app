@@ -2,6 +2,8 @@
 import React from 'react';
 import Sidebar from '../components/Sidebar';
 import '../styles/globals.css';
+
+
 import type { AppProps } from 'next/app';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 
