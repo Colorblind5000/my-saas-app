@@ -1,0 +1,25 @@
+/* globals.css */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #fafafa; /* Baggrund for hele appen */
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  color: #444444; /* Tekst farver*/
+}
+
+a {
+  text-decoration: none;
+  color: #dc004e;
+}
+
+p {
+  line-height: 1.6;
+  margin: 0 0 1em;
+}
+
+/* Eventuelt yderligere reset for andre tags */
